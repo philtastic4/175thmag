@@ -68,3 +68,34 @@ a:active {
     -o-object-fit: cover;
     object-fit: cover;
 }
+.content_span {
+    position: absolute;
+    top: 0;
+	left:0;
+	right:0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    /*z-index: -1;*/
+    /*opacity: .15;*/
+    overflow: hidden;
+}
+.content_span_text {
+    position: relative;
+    min-height: 450px;
+}
+.content_span_image span {
+  display: inline-block;
+  position: absolute;
+  width: 100%;
+  transform: translate(-30%, -25%);
+  color: #fff;
+  font-size: 36px;
+  text-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
