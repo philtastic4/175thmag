@@ -44,7 +44,7 @@ a:active {
   display: inline-block;
   position: absolute;
   width: 100%;
-  transform: translate(-30%, -25%);
+  transform: translate(-10%, -25%);
   color: #fff;
   font-size: 36px;
   text-shadow: 0 0 10px rgba(0,0,0,0.5);
