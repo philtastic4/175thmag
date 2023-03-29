@@ -40,6 +40,10 @@ a:active {
     position: relative;
     min-height: 450px;
 }
+.videoText2 {
+    position: relative;
+    min-height: 800px;
+}
 .videoText span {
   display: inline-block;
   position: absolute;
