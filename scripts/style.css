@@ -42,7 +42,7 @@ a:active {
 }
 .videoText2 {
     position: relative;
-    min-height: 800px;
+    min-height: 600px;
 }
 .videoText span {
   display: inline-block;
